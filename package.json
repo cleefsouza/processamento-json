@@ -1,0 +1,18 @@
+{
+  "name": "processamento-json",
+  "version": "1.0.0",
+  "description": "Exercício do Bootcamp Desenvolvedor FullStack da IGTI",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleefsouza/processamento-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleefsouza/processamento-json/issues"
+  },
+  "homepage": "https://github.com/cleefsouza/processamento-json#readme",
+  "devDependencies": {}
+}
