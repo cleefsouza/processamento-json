@@ -19,4 +19,4 @@ Exercício do Bootcamp Desenvolvedor FullStack da IGTI
 
 * [x] Criar um método que imprima no console a cidade de menor nome entre todos os estados, seguido do seu UF. Em caso de empate, considerar a ordem alfabética para ordená-los e então retornar o primeiro. Exemplo: `Nome da Cidade - UF`.
 
-Made with :green_heart:    by [Cleef Souza](https://www.linkedin.com/in/aryosvalldo-cleef/)
+Made with :green_heart: by [Cleef Souza](https://www.linkedin.com/in/aryosvalldo-cleef/)
